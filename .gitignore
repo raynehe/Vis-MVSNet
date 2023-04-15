@@ -1,0 +1,5 @@
+*.pyc
+colmap_data/*
+*.tar.gz
+ceres-solver-1.14.x/*
+*.zip
